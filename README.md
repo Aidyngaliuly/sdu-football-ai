@@ -113,6 +113,30 @@ NRG and Qaganat have negative goal difference and poor results.
 There is a clear gap between top and bottom teams.
 
 ---
+## 🎥⚽ Snow Kids Line Up
+
+> My team — Snow Kids (SDU Football League):
+
+👉 https://www.youtube.com/watch?v=vroBvKfbtnc
+## ⚽ Snow Kids — Full Season Overview
+
+| Tour | Date  | Match | Result | Goals | Assists |
+|------|------|------|--------|--------|----------|
+| 1 | 07.04 | Inter FC vs Snow Kids | ✅ 0:1 | Orken (25') | — |
+| 2 | 09.04 | Snow Kids vs Sunkar | ❌ 1:7 | Orken (7') | Tamerlan |
+| 3 | 10.04 | Snow Kids vs Turan | ❌ 0:1 | — | — |
+| 4 | 14.04 | NRG vs Snow Kids | ✅ 0:3 | Tamirlan (26'), Azamat T. (30'), Orken (38') | Assylkhan (2) |
+| 5 | 16.04 | Qaganat vs Snow Kids | ✅ 1:2 | Azamat T. (22') | — |
+| 6 | 20.04 | Snow Kids vs Rivayat | ⏳ — | — | — |
+| 7 | 22.04 | Snow Kids vs Barabar | ⏳ — | — | — |
+| 8 | 24.04 | MPG vs Snow Kids | ⏳ — | — | — |
+| 9 | 29.04 | Nomad vs Snow Kids | ⏳ — | — | — |
+| 10 | 01.05 | Old School vs Snow Kids | ⏳ — | — | — |
+| 11 | 04.05 | Snow Kids vs Inter U | ⏳ — | — | — |
+## 🏟️ Home vs Away
+
+- Home: 1 win, 2 losses  
+- Away: 2 wins  
 
 
 
@@ -163,30 +187,6 @@ Football analysis should combine:
 to fully understand performance.
 
 
-## 🎥⚽ Snow Kids Line Up
-
-> My team — Snow Kids (SDU Football League):
-
-👉 https://www.youtube.com/watch?v=vroBvKfbtnc
-## ⚽ Snow Kids — Full Season Overview
-
-| Tour | Date  | Match | Result | Goals | Assists |
-|------|------|------|--------|--------|----------|
-| 1 | 07.04 | Inter FC vs Snow Kids | ✅ 0:1 | Orken (25') | — |
-| 2 | 09.04 | Snow Kids vs Sunkar | ❌ 1:7 | Orken (7') | Tamerlan |
-| 3 | 10.04 | Snow Kids vs Turan | ❌ 0:1 | — | — |
-| 4 | 14.04 | NRG vs Snow Kids | ✅ 0:3 | Tamirlan (26'), Azamat T. (30'), Orken (38') | Assylkhan (2) |
-| 5 | 16.04 | Qaganat vs Snow Kids | ✅ 1:2 | Azamat T. (22') | — |
-| 6 | 20.04 | Snow Kids vs Rivayat | ⏳ — | — | — |
-| 7 | 22.04 | Snow Kids vs Barabar | ⏳ — | — | — |
-| 8 | 24.04 | MPG vs Snow Kids | ⏳ — | — | — |
-| 9 | 29.04 | Nomad vs Snow Kids | ⏳ — | — | — |
-| 10 | 01.05 | Old School vs Snow Kids | ⏳ — | — | — |
-| 11 | 04.05 | Snow Kids vs Inter U | ⏳ — | — | — |
-## 🏟️ Home vs Away
-
-- Home: 1 win, 2 losses  
-- Away: 2 wins  
 
 ### Insight:
 Team performs better in away matches.
