@@ -190,5 +190,15 @@ to fully understand performance.
 
 ### Insight:
 Team performs better in away matches.
+---
 
+## 🚀 Final Improvements
+
+- 🤖 **AI clarity** — show real results, not just descriptions  
+- 🔮 **Prediction (optional)** — add 1–2 match predictions  
+- 🧹 **Clean README** — keep it short and clear  
+
+---
+
+**Project completed using real SFL data and AI analysis.**
 
