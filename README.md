@@ -1,4 +1,13 @@
+## 🤖 AI Example (Prompt + Result)
 
+### Prompt:
+Analyze this football dataset and identify the strongest team.
+
+### AI Output:
+The strongest team is the one with the highest number of wins and best goal difference. This team shows consistent performance across matches.
+
+### Explanation:
+This result is generated using prompt engineering applied to real match data.
 # ⚽ SDU Football League AI Analysis
 
 🚀 AI-powered analytics project for SDU Football League (SFL)
