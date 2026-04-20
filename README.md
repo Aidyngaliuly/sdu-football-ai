@@ -1,7 +1,7 @@
 ## ⚙️ Setup & Usage
 
 1. Clone the repository:
-git clone https://github.com/your-username/sdu-football-ai.git
+git clone https://github.com/Aidyngaliuly/sdu-football-ai.git
 
 2. Install libraries:
 pip install pandas
