@@ -112,30 +112,7 @@ There is a clear gap between top and bottom teams.
 
 ---
 
-## ⚽ Individual Performance
 
-### 🥇 Top Scorers
-
-- Diyorbek Torabekov — 7  
-- Is’haaq Burkhaan — 7  
-- Kuantkhan Sh. — 7  
-- Abdulhannan A. — 5  
-
-### 🅰️ Top Assistants
-
-- Zhassulan Bakhitov — 5  
-- Yerassyl Y. — 4  
-- Ayat Bissen — 4  
-- Maksat Pazylbekov — 3  
-
-### ⭐ Team of the Week
-
-- Kuantkhan Sh.  
-- Maksat A.  
-- Assylkhan K.  
-- Bakhtiyar T.  
-- Mukhtar N.  
-- Alibi O.  
 
 ---
 
