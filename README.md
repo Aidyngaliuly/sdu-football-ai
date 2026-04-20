@@ -211,3 +211,5 @@ to fully understand performance.
 
 ### Insight:
 Team performs better in away matches.
+
+<img width="604" height="529" alt="Снимок экрана 2026-04-20 в 16 00 15" src="https://github.com/user-attachments/assets/662b2b74-2ebf-476b-ba2e-400f8b1944b1" />
