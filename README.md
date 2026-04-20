@@ -90,13 +90,7 @@ Some teams perform steadily, while others are inconsistent from match to match.
 
 ## 📊 Sample Visualization
 
-```mermaid
-xychart-beta
-    title "Top 5 Teams by Points"
-    x-axis ["Team A", "Team B", "Team C", "Team D", "Team E"]
-    y-axis "Points" 0 --> 25
-    bar [24, 21, 18, 15, 12]
----
+
 
 ## 📊 Real Data Analysis (Tour 4)
 
