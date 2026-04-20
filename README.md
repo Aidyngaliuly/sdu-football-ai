@@ -189,3 +189,12 @@ to fully understand performance.
 > My team — Snow Kids (SDU Football League):
 
 👉 https://www.youtube.com/watch?v=vroBvKfbtnc
+## ⚽ Snow Kids — Match Details
+
+| Tour | Match | Result | Goals | Assists | Cards |
+|------|------|--------|--------|----------|--------|
+| 1 | Inter FC vs Snow Kids | ✅ 0:1 | Orken (25') | — | Orken 🟨 |
+| 2 | Snow Kids vs Sunkar | ❌ 1:7 | Orken (7') | Tamerlan | — |
+| 3 | Snow Kids vs Turan | ❌ 0:1 | — | — | Azamat M. 🟨 |
+| 4 | NRG vs Snow Kids | ✅ 0:3 | Tamirlan (26'), Azamat T. (30'), Orken (38') | Assylkhan (2) | Murat 🟨 |
+| 5 | Qaganat vs Snow Kids | ✅ 1:2 | Azamat T. (22') | — | Azamat M. 🟨 |
