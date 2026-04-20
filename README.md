@@ -1,98 +1,76 @@
+
 # ⚽ SDU Football League AI Analysis
 
 🚀 AI-powered analytics project for SDU Football League (SFL)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.11-blue" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-brightgreen" />
+  <img src="https://img.shields.io/badge/AI-Prompt%20Engineering-orange" />
+  <img src="https://img.shields.io/badge/Data-Real%20Match%20Data-purple" />
+</p>
+
 ---
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ## 📌 Project Idea
+
 This project analyzes real match data from the SDU Football League and applies AI (prompt engineering) to extract insights, discover patterns, and support data-driven decisions.
 
----
+</td>
+<td width="45%" valign="top">
 
 ## ⭐ What Makes It Special?
 
-- 📊 Real Data — actual SDU football matches
-- 🤖 AI-Powered — using prompt engineering
-- 📈 Insightful — discovering patterns & trends
-- ⚡ Practical — useful for players & teams
-- 🔮 Future-ready — can evolve into prediction system
+- 📊 **Real Data** — actual SDU football matches  
+- 🤖 **AI-Powered** — using prompt engineering  
+- 📈 **Insightful** — discovering patterns & trends  
+- ⚡ **Practical** — useful for players & teams  
+- 🔮 **Future-ready** — can evolve into prediction system  
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ## 🤖 AI Component
 
-- Using AI prompts to analyze match data  
-- Extracting patterns and insights  
-- Simulating match predictions  
-- Generating natural language summaries  
-- Answering football-related questions  
+- ✅ Using AI prompts to analyze match data  
+- ✅ Extracting patterns and insights  
+- ✅ Simulating match predictions  
+- ✅ Generating natural language summaries  
+- ✅ Answering football-related questions  
 
----
+</td>
+<td width="33%" valign="top">
 
 ## 💡 Key Insights (Example)
 
-- 🏆 Top Team — teams with highest wins dominate the league  
-- 📊 Goal Trends — attacking teams tend to win more  
-- 🎯 Consistency — some teams perform stable, others inconsistent  
+### 🏆 Top Team
+Teams with the highest win rate and goal difference are leading the league.
 
----
+### 📈 Goal Trends
+Teams that score more goals usually have a higher probability of winning.
 
-## 📊 Sample Use Case
+### 🎯 Consistency
+Some teams perform steadily, while others are inconsistent from match to match.
 
-User can ask:
-> “Who is the strongest team?”
+</td>
+<td width="34%" valign="top">
 
-AI can answer:
-> Based on match data, the strongest team is the one with highest win rate and goal difference.
+## 📊 Sample Visualization
 
----
-
-## 📂 Data
-
-- CSV match results  
-- Telegram screenshots  
-
----
-
-## 🛠️ Tech Stack
-
-- Python  
-- Pandas  
-- Excel  
-- (Future) Machine Learning, LLMs  
-
----
-
-## 🚀 Future Improvements
-
-- 🤖 Match winner prediction model  
-- 📊 Interactive dashboard  
-- 📉 Player performance analytics  
-- 💬 AI chatbot for league queries  
-- ⚡ Real-time match tracking  
-
----
-
-## 🎯 Goal
-
-Turn SDU Football League into a data-driven football system ⚽📊
-
----
-
-## 👨‍💻 Author
-
-Orken Aidyngaliuly  
-SDU Student | Math & Data Analytics  
-
----
-
-## 📌 Project Status
-
-🟢 In Progress — continuously improving and adding AI features  
-
----
-
-## 💬 Final Thought
-
-“This is not just a project.  
-It is the beginning of a smart football analytics system for SDU.”
+```mermaid
+xychart-beta
+    title "Top 5 Teams by Points"
+    x-axis ["Team A", "Team B", "Team C", "Team D", "Team E"]
+    y-axis "Points" 0 --> 25
+    bar [24, 21, 18, 15, 12]
