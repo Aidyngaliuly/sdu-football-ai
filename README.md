@@ -96,3 +96,94 @@ xychart-beta
     x-axis ["Team A", "Team B", "Team C", "Team D", "Team E"]
     y-axis "Points" 0 --> 25
     bar [24, 21, 18, 15, 12]
+---
+
+## 📊 Real Data Analysis (Tour 4)
+
+### 🏆 Team Performance
+
+- **Nomad** — 4 wins, GD +20 → strongest team  
+- **Sunkar** — 4 wins, GD +13 → strong competitor  
+- **Old School** — consistent, no losses  
+
+### ⚠️ Mid-Level Teams
+Turan, MPG, Snow Kids show unstable performance.
+
+### ❄️ Weak Teams
+NRG and Qaganat have negative goal difference and poor results.
+
+### 🔥 Insight:
+There is a clear gap between top and bottom teams.
+
+---
+
+## ⚽ Individual Performance
+
+### 🥇 Top Scorers
+
+- Diyorbek Torabekov — 7  
+- Is’haaq Burkhaan — 7  
+- Kuantkhan Sh. — 7  
+- Abdulhannan A. — 5  
+
+### 🅰️ Top Assistants
+
+- Zhassulan Bakhitov — 5  
+- Yerassyl Y. — 4  
+- Ayat Bissen — 4  
+- Maksat Pazylbekov — 3  
+
+### ⭐ Team of the Week
+
+- Kuantkhan Sh.  
+- Maksat A.  
+- Assylkhan K.  
+- Bakhtiyar T.  
+- Mukhtar N.  
+- Alibi O.  
+
+---
+
+## 🤖 AI Insight
+
+Using prompt engineering, the system analyzes:
+
+- Team performance  
+- Player statistics  
+- Match trends  
+
+and generates insights such as:
+
+- Strongest teams  
+- Key players  
+- Performance patterns  
+
+---
+
+## 🔮 Future Prediction
+
+Using past data and upcoming fixtures:
+
+- Predict match winners  
+- Estimate final standings  
+- Identify key matches  
+
+---
+
+## 📅 League Structure
+
+- Total Tours: 11  
+- Duration: April – May  
+- Includes both past results and future matches  
+
+---
+
+## 💡 Final Insight
+
+Football analysis should combine:
+
+- Data  
+- AI  
+- Player statistics  
+
+to fully understand performance.
