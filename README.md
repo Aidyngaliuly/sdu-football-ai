@@ -22,6 +22,17 @@ The strongest team is the one with the highest number of wins and best goal diff
 
 ### Explanation:
 This result is generated using prompt engineering applied to real match data.
+
+## 🤖 AI Analysis Example
+
+Input: match results dataset (CSV)
+
+Task: analyze team performance and predict outcomes
+
+Output:
+- strongest team: Nomad
+- top scorers identified
+- performance trend: Snow Kids improving in away matches
 # ⚽ SDU Football League AI Analysis
 
 
