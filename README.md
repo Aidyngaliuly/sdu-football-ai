@@ -182,8 +182,10 @@ Football analysis should combine:
 - Player statistics  
 
 to fully understand performance.
-## 🎥 Demo Video
 
-Click below to watch:
+
+## 🎥⚽ Snow Kids Line Up
+
+> My team — Snow Kids (SDU Football League):
 
 👉 https://www.youtube.com/watch?v=vroBvKfbtnc
