@@ -189,7 +189,7 @@ to fully understand performance.
 > My team — Snow Kids (SDU Football League):
 
 👉 https://www.youtube.com/watch?v=vroBvKfbtnc
-## ⚽ Snow Kids — Match Details & Schedule
+## ⚽ Snow Kids — Full Season Overview
 
 | Tour | Date  | Match | Result | Goals | Assists |
 |------|------|------|--------|--------|----------|
@@ -198,17 +198,12 @@ to fully understand performance.
 | 3 | 10.04 | Snow Kids vs Turan | ❌ 0:1 | — | — |
 | 4 | 14.04 | NRG vs Snow Kids | ✅ 0:3 | Tamirlan (26'), Azamat T. (30'), Orken (38') | Assylkhan (2) |
 | 5 | 16.04 | Qaganat vs Snow Kids | ✅ 1:2 | Azamat T. (22') | — |
-
-### 🔮 Upcoming Matches
-
-| Tour | Date  | Match | Prediction |
-|------|------|------|-------------|
-| 6 | 20.04 | Snow Kids vs Rivayat | — |
-| 7 | 22.04 | Snow Kids vs Barabar | — |
-| 8 | 24.04 | MPG vs Snow Kids | — |
-| 9 | 29.04 | Nomad vs Snow Kids | — |
-| 10 | 01.05 | Old School vs Snow Kids | — |
-| 11 | 04.05 | Snow Kids vs Inter U | — |
+| 6 | 20.04 | Snow Kids vs Rivayat | ⏳ — | — | — |
+| 7 | 22.04 | Snow Kids vs Barabar | ⏳ — | — | — |
+| 8 | 24.04 | MPG vs Snow Kids | ⏳ — | — | — |
+| 9 | 29.04 | Nomad vs Snow Kids | ⏳ — | — | — |
+| 10 | 01.05 | Old School vs Snow Kids | ⏳ — | — | — |
+| 11 | 04.05 | Snow Kids vs Inter U | ⏳ — | — | — |
 ## 🏟️ Home vs Away
 
 - Home: 1 win, 2 losses  
