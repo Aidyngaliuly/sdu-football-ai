@@ -198,3 +198,10 @@ to fully understand performance.
 | 3 | Snow Kids vs Turan | ❌ 0:1 | — | — | Azamat M. 🟨 |
 | 4 | NRG vs Snow Kids | ✅ 0:3 | Tamirlan (26'), Azamat T. (30'), Orken (38') | Assylkhan (2) | Murat 🟨 |
 | 5 | Qaganat vs Snow Kids | ✅ 1:2 | Azamat T. (22') | — | Azamat M. 🟨 |
+## 🏟️ Home vs Away
+
+- Home: 1 win, 2 losses  
+- Away: 2 wins  
+
+### Insight:
+Team performs better in away matches.
