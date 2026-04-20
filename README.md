@@ -165,29 +165,8 @@ Nomad, Old School, Sunkar
 
 ## 🤖 AI Insight
 
-Using prompt engineering, the system analyzes:
+The system uses prompt engineering to analyze match data and generate insights about teams, players, and performance trends.
 
-- Team performance  
-- Player statistics  
-- Match trends  
-
-and generates insights such as:
-
-- Strongest teams  
-- Key players  
-- Performance patterns  
-
----
-
-## 🔮 Future Prediction
-
-Using past data and upcoming fixtures:
-
-- Predict match winners  
-- Estimate final standings  
-- Identify key matches  
-
----
 
 ## 📅 League Structure
 
