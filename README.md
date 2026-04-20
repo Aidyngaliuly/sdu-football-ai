@@ -23,7 +23,7 @@ The strongest team is the one with the highest number of wins and best goal diff
 ### Explanation:
 This result is generated using prompt engineering applied to real match data.
 # ⚽ SDU Football League AI Analysis
-<img width="485" height="597" alt="Снимок экрана 2026-04-20 в 16 02 41" src="https://github.com/user-attachments/assets/a0ab7d6a-0f1a-437a-94e6-c157e008796b" />
+
 
 🚀 AI-powered analytics project for SDU Football League (SFL)
 
@@ -90,7 +90,8 @@ Some teams perform steadily, while others are inconsistent from match to match.
 </td>
 <td width="34%" valign="top">
 
-## 📊 Sample Visualization
+## 📊 <img width="485" height="597" alt="Снимок экрана 2026-04-20 в 16 02 41" src="https://github.com/user-attachments/assets/a0ab7d6a-0f1a-437a-94e6-c157e008796b" />
+
 
 
 
