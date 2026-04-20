@@ -138,7 +138,23 @@ There is a clear gap between top and bottom teams.
 - Home: 1 win, 2 losses  
 - Away: 2 wins  
 
+## 📊 League Position Analysis
 
+Snow Kids currently has 6 points and is ranked 6th.
+
+### 🥇 1st Place
+Requires 4–5 consecutive wins and losses from Nomad and Sunkar.
+
+### 🥈 2nd Place
+Requires 3–4 wins and at least 2 losses from top teams.
+
+### 🥉 3rd Place (Realistic Target)
+Requires 2–3 wins and good results against direct competitors (MPG, Turan).
+
+### 🔥 Key Matches
+- vs MPG (direct competitor)
+- vs Nomad, Old School (top teams)
+- vs Rivayat (must win)
 
 ---
 
