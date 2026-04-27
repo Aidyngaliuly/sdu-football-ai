@@ -146,8 +146,8 @@ There is a clear gap between top and bottom teams.
 | 11 | 04.05 | Snow Kids vs Inter U | ⏳ — | — | — |
 ## 🏟️ Home vs Away
 
-- Home: 1 win, 2 losses  
-- Away: 2 wins  
+- Home: 2 win, 2 losses  
+- Away: 2 wins, 2 losses  
 
 ## 📊 League Analysis
 
