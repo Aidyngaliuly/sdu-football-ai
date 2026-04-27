@@ -23,35 +23,6 @@ The strongest team is the one with the highest number of wins and best goal diff
 ### Explanation:
 This result is generated using prompt engineering applied to real match data.
 
-## 🤖 Telegram Data Analysis (Simulation)
-
-This module simulates how Telegram channel posts can be converted into structured football data and analyzed automatically.
-
-```python
-# telegram_analysis.py
-
-import pandas as pd
-import re
-
-posts = [
-    "Snow Kids vs Sunkar 1:7",
-    "NRG vs Snow Kids 0:3"
-]
-
-data = []
-
-for post in posts:
-    result = re.search(r"(\d+):(\d+)", post)
-    if result:
-        data.append({
-            "Match": post,
-            "Score": result.group()
-        })
-
-df = pd.DataFrame(data)
-
-print(df)
-
 ## 🤖 AI Analysis Example
 
 Input: match results dataset (CSV)
