@@ -138,9 +138,9 @@ There is a clear gap between top and bottom teams.
 | 3 | 10.04 | Snow Kids vs Turan | ❌ 0:1 | — | — |
 | 4 | 14.04 | NRG vs Snow Kids | ✅ 0:3 | Tamirlan (26'), Azamat T. (30'), Orken (38') | Assylkhan (2) |
 | 5 | 16.04 | Qaganat vs Snow Kids | ✅ 1:2 | Azamat T. (22') | — |
-| 6 | 20.04 | Snow Kids vs Rivayat | ⏳ — | — | — |
-| 7 | 22.04 | Snow Kids vs Barabar | ⏳ — | — | — |
-| 8 | 24.04 | MPG vs Snow Kids | ⏳ — | — | — |
+| 6 | 20.04 | Snow Kids vs Rivayat | ❌ 2:3 | Orken (32'), Azamat T. (38') | Assylkhan (1) |
+| 7 | 22.04 | Snow Kids vs Barabar | ❌ 2:3 | Вaniyal (21) | Orken |
+| 8 | 24.04 | MPG vs Snow Kids |  ✅ 2:0 | Azamat T. (23'), Orken (38) | Orken |
 | 9 | 29.04 | Nomad vs Snow Kids | ⏳ — | — | — |
 | 10 | 01.05 | Old School vs Snow Kids | ⏳ — | — | — |
 | 11 | 04.05 | Snow Kids vs Inter U | ⏳ — | — | — |
