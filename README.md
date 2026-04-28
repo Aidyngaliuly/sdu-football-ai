@@ -153,12 +153,12 @@ There is a clear gap between top and bottom teams.
 
 Snow Kids is currently 6th with 6 points.
 
-- 🥇 1st place: requires 4–5 wins and losses from top teams  
-- 🥈 2nd place: requires 3–4 wins  
-- 🥉 3rd place: requires 2–3 wins (realistic)
+- 🥇 1st place: requires 3 wins by large margin  
+- 🥈 2nd place: requires 3 wins  
+- 🥉 3rd place: requires 2 wins (realistic)
 
 ### 🔑 Must-Win Matches
-Rivayat, Barabar, MPG
+Nomad, Old School, Inter U.
 
 ### ⚔️ Strong Opponents
 Nomad, Old School, Sunkar
