@@ -140,7 +140,7 @@ There is a clear gap between top and bottom teams.
 | 4 | 14.04 | NRG vs Snow Kids | ✅ 0:3 | Tamirlan (26'), Azamat T. (30'), Orken (38') | Assylkhan (2) |
 | 5 | 16.04 | Qaganat vs Snow Kids | ✅ 1:2 | Azamat T. (22') | — |
 | 6 | 20.04 | Snow Kids vs Rivayat | ❌ 2:3 | Orken (32'), Azamat T. (38') | Assylkhan (1) |
-| 7 | 22.04 | Snow Kids vs Barabar | ❌ 2:3 | Daniyal (21) | Orken |
+| 7 | 22.04 | Snow Kids vs Barabar | ❌ 1:2 | Daniyal (21) | Orken |
 | 8 | 24.04 | MPG vs Snow Kids |  ✅ 2:0 | Azamat T. (23'), Orken (38) | Orken |
 | 9 | 29.04 | Nomad vs Snow Kids | ⏳ — | — | — |
 | 10 | 01.05 | Old School vs Snow Kids | ⏳ — | — | — |
