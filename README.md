@@ -101,7 +101,8 @@ Some teams perform steadily, while others are inconsistent from match to match.
 </td>
 <td width="34%" valign="top">
 
-## 📊 <img width="485" height="597" alt="Снимок экрана 2026-04-20 в 16 02 41" src="https://github.com/user-attachments/assets/a0ab7d6a-0f1a-437a-94e6-c157e008796b" />
+## 📊 <img width="784" height="773" alt="Снимок экрана 2026-04-28 в 08 43 09" src="https://github.com/user-attachments/assets/5fe61c83-c782-40b4-86cd-2bd824f8fb59" />
+
 
 
 
