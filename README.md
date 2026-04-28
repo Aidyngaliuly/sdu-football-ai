@@ -165,6 +165,9 @@ Nomad, Old School, Inter U.
 
 <img width="895" height="593" alt="Снимок экрана 2026-04-28 в 09 37 20" src="https://github.com/user-attachments/assets/deea371d-6fd6-412c-82dc-f901de9e836c" />
 
+
+<img width="894" height="588" alt="Снимок экрана 2026-04-28 в 09 42 12" src="https://github.com/user-attachments/assets/349e7433-f4de-4ae5-8494-a095c1895e94" />
+
 ### ⚔️ Strong Opponents
 Nomad, Old School, Sunkar
 
