@@ -163,6 +163,8 @@ Snow Kids is currently 6th with 6 points.
 Nomad, Old School, Inter U.
 <img width="893" height="594" alt="Снимок экрана 2026-04-28 в 09 24 33" src="https://github.com/user-attachments/assets/ce30f81f-31f1-4a74-8580-267bd87c51e2" />
 
+<img width="895" height="593" alt="Снимок экрана 2026-04-28 в 09 37 20" src="https://github.com/user-attachments/assets/deea371d-6fd6-412c-82dc-f901de9e836c" />
+
 ### ⚔️ Strong Opponents
 Nomad, Old School, Sunkar
 
