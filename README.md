@@ -111,8 +111,8 @@ Some teams perform steadily, while others are inconsistent from match to match.
 
 ### 🏆 Team Performance
 
-- **Nomad** — 4 wins, GD +20 → strongest team  
-- **Sunkar** — 4 wins, GD +13 → strong competitor  
+- **Nomad** — 5 wins, GD +20 → strongest team  
+- **Sunkar** — 5 wins, GD +13 → strong competitor  
 - **Old School** — consistent, no losses  
 
 ### ⚠️ Mid-Level Teams
