@@ -1,4 +1,4 @@
-<img width="892" height="595" alt="Снимок экрана 2026-04-28 в 09 24 07" src="https://github.com/user-attachments/assets/b317969f-2605-4d9c-8a5a-e9f7c5d5f28d" />
+
 
 ## ⚙️ Setup & Usage
 
